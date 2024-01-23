@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Social Link Site]([https://your-live-site-url.com](https://pavan-10-7.github.io/FrontendMentor-2/))
 
 ## My process
 
 - Structured the contents in HTML accordingly.
-- Managed divs and center aligned them as required.
+- Managed divs and centre aligned them as required.
 - Linked a stylesheet and matched the design as specified.
 
 ### Built with
